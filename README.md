@@ -38,3 +38,7 @@ This repo was created as an accompaniment to a lecture talk given at Fullstack A
 * [_The Lambda Calculus_ · Stanford](http://stanford.io/2vtg8hp)
 * [_History of Lambda-calculus and Combinatory Logic_ · Cardone, Hindley](http://bit.ly/2wCxv4k)
 * [_An Introduction to Functional Programming through Lambda Calculus_ · Michaelson](http://amzn.to/2vtts56)
+
+
+
+https://crypto.stanford.edu/~blynn/lambda/
