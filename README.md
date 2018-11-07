@@ -42,3 +42,5 @@ This repo was created as an accompaniment to a lecture talk given at Fullstack A
 
 
 https://crypto.stanford.edu/~blynn/lambda/
+
+http://jacksongl.github.io/files/demo/lambda/index.htm#firstPage
